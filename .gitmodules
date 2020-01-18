@@ -1,0 +1,3 @@
+[submodule "blog/hexo-theme-Chic"]
+	path = blog/hexo-theme-Chic
+	url = https://github.com/berkugo/hexo-theme-Chic
